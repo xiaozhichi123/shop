@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/gupao-vip-mall/malls-service/malls-goods-service">
+      <sourceFolder url="file://$MODULE_DIR$/gupao-vip-mall/malls-service/malls-goods-service/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gupao-vip-mall/malls-service/malls-goods-service/src/main/resources" type="java-resource" />
+    </content>
+  </component>
+</module>
