@@ -11,25 +11,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="swagger-json" />
         <module name="malls-goods-service" />
+        <module name="mall-file-service" />
+        <module name="mall-goods-api" />
         <module name="malls-goods-api" />
         <module name="malls-file-service" />
+        <module name="mall-service-dependency" />
+        <module name="mall-goods-service" />
         <module name="malls-common" />
+        <module name="mall-common" />
         <module name="malls-service-dependency" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
-      <module name="gupaoedu-vip-mall" target="1.8" />
-      <module name="mall-api" target="1.8" />
-      <module name="mall-common" target="1.8" />
-      <module name="mall-file-service" target="1.8" />
-      <module name="mall-gateway" target="1.8" />
-      <module name="mall-goods-api" target="1.8" />
-      <module name="mall-goods-service" target="1.8" />
-      <module name="mall-service" target="1.8" />
-      <module name="mall-service-dependency" target="1.8" />
-      <module name="mall-util" target="1.8" />
-      <module name="mall-web" target="1.8" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8" />
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_STRING" value="-parameters" />
